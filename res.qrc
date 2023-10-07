@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/fileOpen.ico</file>
+        <file>pic/fileSave.ico</file>
+        <file>pic/filePrint.ico</file>
+        <file>pic/fileExit.ico</file>
+        <file>pic/editCopy.ico</file>
+        <file>pic/editPaste.ico</file>
+        <file>pic/zoomIn.ico</file>
+        <file>pic/zoomOut.ico</file>
+        <file>pic/zoomNorm.ico</file>
+        <file>pic/zoomFit.ico</file>
+        <file>pic/helpAbout.ico</file>
+        <file>pic/ico.ico</file>
+    </qresource>
+</RCC>
